@@ -239,7 +239,7 @@ Principali comandi disponibili:
 te da qualsiasi chat, poiché si tratta di dati di telegramma, non di dati di YanaBot. Anche inondazioni, avvisi e gban vengono preservati, a partire da \
 [questo] (https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/), 
 "che afferma chiaramente che il diritto alla cancellazione non si applica \
-per l'esecuzione di un compito svolto nel pubblico interesse \", così com'è \
+per l'esecuzione di un compito svolto nel pubblico interesse \", così com'èv \
 il caso per i suddetti dati. """
 
 }
