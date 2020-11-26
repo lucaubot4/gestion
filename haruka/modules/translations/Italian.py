@@ -64,7 +64,7 @@ INSULTS_STRINGS = (
     "Se volessi uccidermi, scalerei il tuo ego e salterei al tuo QI.",
     "Gli zombi mangiano cervelli ... sei al sicuro.",
     "Non ti sei evoluto dalle scimmie, si sono evoluti da te.",
-    "T"Non sto dicendo che sei stupido, sto solo dicendo che hai sfortuna quando si tratta di pensare.",
+    "Non sto dicendo che sei stupido, sto solo dicendo che hai sfortuna quando si tratta di pensare.",
     "Che lingua parli? Perché suona come una cazzata.",
     "La stupidità non è un crimine quindi sei libero di andare.",
     "Sei la prova che l'evoluzione PU andare al contrario.",
@@ -221,8 +221,7 @@ Principali comandi disponibili:
    {}
    "" ",
 
-    "send-group-settings": "" "Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa
-siete interessati a.""",
+    "send-group-settings": "" "Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati a.""",
 
 #Misc
 "RUNS-K": RUN_STRINGS,
