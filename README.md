@@ -3,7 +3,7 @@
 
 # GroupManager
 
-[! [Distribuisci a Heroku](https://www.herokucdn.com/deploy/button.svg)].(https://dashboard.heroku.com/new?template=https://github.com/lucaubot4/gestion)
+[![Distribuisci a Heroku](https://www.herokucdn.com/deploy/button.svg)].(https://dashboard.heroku.com/new?template=https://github.com/lucaubot4/gestion)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
