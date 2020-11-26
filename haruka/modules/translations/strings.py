@@ -27,7 +27,7 @@ def tld(chat_id, t, show_none=True):
         else:
             if t in EnglishStrings:
                 return EnglishStrings[t]
-        else:
+            else:
                 return t
     elif show_none:
         if t in EnglishStrings:
@@ -61,5 +61,5 @@ def tld_help(chat_id, t):
             return ItalianStrings[t]
         else:
             return False
-        else:
+   else:
         return False
