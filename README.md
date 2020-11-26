@@ -3,7 +3,7 @@
 
 # GroupManager
 
-[![Distribuisci a Heroku](https://www.herokucdn.com/deploy/button.svg)].(https://dashboard.heroku.com/new?template=https://github.com/lucaubot4/gestion)
+[! [Distribuisci a Heroku](https://www.herokucdn.com/deploy/button.svg)].(https://dashboard.heroku.com/new?template=https://github.com/lucaubot4/gestion)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
@@ -17,4 +17,4 @@ You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
 [Join Discuss Group](https://t.me/giveaways_24hrs)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
+Report your problem along with your name to [this person](https://t.me/xditya)v
