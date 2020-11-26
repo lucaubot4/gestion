@@ -176,7 +176,7 @@ HIT = (
     "bashes",
 )
 
-MARKDOWN_HELP = "" "
+MARKDOWN_HELP = """
 Markdown è uno strumento di formattazione molto potente supportato da Telegram. {} ha alcuni miglioramenti, per assicurarsi che \
 i messaggi salvati vengono analizzati correttamente e consentono di creare pulsanti.
 - <code> _italic_ </code>: il ritorno a capo del testo con "_" produrrà testo in corsivo
@@ -236,11 +236,10 @@ Principali comandi disponibili:
 
 #GDPR
 "send-gdpr": "" "I tuoi dati personali sono stati eliminati. \ n \ nNota che questo non verrà sbloccato \
-te da qualsiasi chat, poiché si tratta di dati di telegramma, non di dati di YanaBot.
-Anche inondazioni, avvisi e gban vengono preservati, a partire da \
-[questo] (https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/), "
-che afferma chiaramente che il diritto alla cancellazione non si applica \
-\ "per l'esecuzione di un compito svolto nel pubblico interesse \", così com'è \
-il caso per i suddetti dati. "" "
+te da qualsiasi chat, poiché si tratta di dati di telegramma, non di dati di YanaBot. Anche inondazioni, avvisi e gban vengono preservati, a partire da \
+[questo] (https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/), 
+"che afferma chiaramente che il diritto alla cancellazione non si applica \
+per l'esecuzione di un compito svolto nel pubblico interesse \", così com'è \
+il caso per i suddetti dati. """
 
 }
