@@ -24,7 +24,7 @@ RUN_STRINGS = (
     "Possano le probabilità essere sempre a tuo favore.",
     "Le ultime parole famose.",
     "E sono scomparsi per sempre, per non essere mai più visti.",
-    "\" Oh, guardami! Sono così forte, posso scappare da un bot! \ "- questa persona",
+     "\"Oh, look at me! I'm so cool, I can run from a bot!\" - this person",
     "Sì, sì, tocca / prendimi già a calci.",
     "Tieni, prendi questo anello e vai da Mordor già che ci sei.",
     "Secondo la leggenda, stanno ancora correndo ...",
