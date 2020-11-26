@@ -196,7 +196,7 @@ Se vuoi più pulsanti sulla stessa riga, usa: stesso, come tale:
 Questo creerà due pulsanti su una singola riga, invece di un pulsante per riga.
 "" "
 
-EnglishStrings = {
+ItalianStrings = {
     "send-start": "" "Ciao {}, mi chiamo {}! Se hai domande su come usarmi, leggi / help e poi vai a @YanaBotGroup.
 Sono un bot gestore di gruppo gestito da [questa persona] (tg: // user? Id = {654839744}). Sono un fork di [Marie] (https://github.com/PaulSonOfLars/tgbot).
 Sono costruito in python3, usando il \
