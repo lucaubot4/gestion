@@ -221,4 +221,4 @@ Principali comandi disponibili:
    {}
    """,
 
-    "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati a.""",
+    "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati aa.""",
