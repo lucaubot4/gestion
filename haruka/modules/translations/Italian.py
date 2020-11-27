@@ -222,6 +222,7 @@ Principali comandi disponibili:
    """,
 
     "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati aa.""",
+
 #Misc
 "RUNS-K": RUN_STRINGS,
 "SLAP_TEMPLATES-K": SLAP_TEMPLATES,
