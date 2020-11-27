@@ -194,7 +194,7 @@ Se vuoi più pulsanti sulla stessa riga, usa: stesso, come tale:
 <code> [one] (buttonurl: //example.com)
 [due] (buttonurl: //google.com: stesso) </code>
 Questo creerà due pulsanti su una singola riga, invece di un pulsante per riga.
-"" "
+"""
 
 ItalianStrings = {
     "send-start": "" "Ciao {}, mi chiamo {}! Se hai domande su come usarmi, leggi / help e poi vai a @YanaBotGroup.
