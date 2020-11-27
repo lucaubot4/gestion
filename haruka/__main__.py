@@ -20,7 +20,7 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Ciao {}, il mio nome è {}!
+PM_START = """hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you
 
