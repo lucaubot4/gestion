@@ -223,16 +223,6 @@ Principali comandi disponibili:
 
     "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati aa.""",
 
-#Misc
-"RUNS-K": RUN_STRINGS,
-"SLAP_TEMPLATES-K": SLAP_TEMPLATES,
-"HIT-K": HIT,
-"THROW-K": THROW,
-"ITEMP-K": ITEMS,
-"ITEMR-K": ITEMS,
-"MARKDOWN_HELP-K": MARKDOWN_HELP,
-"INSULTS-K": INSULTS_STRINGS,
-
 #GDPR
 "send-gdpr": """I tuoi dati personali sono stati eliminati. \ n \ nNota che questo non verrà sbloccato \
 da qualsiasi chat, poiché si tratta di dati di telegramma, non di dati di YanaBot.
