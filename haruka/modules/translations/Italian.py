@@ -129,7 +129,7 @@ SLAP_TEMPLATES = (
     "{user1} ha dato una spinta amichevole per aiutare {user2} a imparare a nuotare nella lava."
 )
 
-ARTICOLI = (
+ITEMS = (
     "Padella di ferro",
     "grossa trota",
     "Mazza da baseball",
@@ -161,7 +161,7 @@ ARTICOLI = (
     "tonnellata di mattoni",
 )
 
-LANCIO = (
+THROW = (
     "lanci",
     "avventure",
     "mandrini",
@@ -222,6 +222,17 @@ Principali comandi disponibili:
    """,
 
     "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati aa.""",
+
+#Misc
+"RUNS-K": RUN_STRINGS,
+"SLAP_TEMPLATES-K": SLAP_TEMPLATES,
+"ITEMS-K": ITEMS,
+"HIT-K": HIT,
+"THROW-K": THROW,
+"ITEMP-K": ITEMS,
+"ITEMR-K": ITEMS,
+"MARKDOWN_HELP-K": MARKDOWN_HELP,
+"INSULTS-K": INSULTS_STRINGS,
 
 #GDPR
 "send-gdpr": """I tuoi dati personali sono stati eliminati. \ n \ nNota che questo non verrà sbloccato \
