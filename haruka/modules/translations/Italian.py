@@ -222,3 +222,24 @@ Principali comandi disponibili:
    """,
 
     "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati aa.""",
+#Misc
+"RUNS-K": RUN_STRINGS,
+"SLAP_TEMPLATES-K": SLAP_TEMPLATES,
+"ITEMS-K": ITEMS,
+"HIT-K": HIT,
+"THROW-K": THROW,
+"ITEMP-K": ITEMS,
+"ITEMR-K": ITEMS,
+"MARKDOWN_HELP-K": MARKDOWN_HELP,
+"INSULTS-K": INSULTS_STRINGS,
+
+#GDPR
+"send-gdpr": "" "I tuoi dati personali sono stati eliminati. \ n \ nNota che questo non verrà sbloccato \
+da qualsiasi chat, poiché si tratta di dati di telegramma, non di dati di YanaBot.
+Anche allagamenti, avvisi e gban vengono preservati, a partire da \
+[questo] (https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/), "
+che afferma chiaramente che il diritto alla cancellazione non si applica \
+\ "per l'esecuzione di un compito svolto nell'interesse pubblico \", così com'è \
+il caso per i suddetti dati. "" "
+
+}
