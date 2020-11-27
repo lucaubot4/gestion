@@ -197,7 +197,7 @@ Questo creerà due pulsanti su una singola riga, invece di un pulsante per riga.
 """
 
 ItalianStrings = {
-    "send-start": "" "Ciao {}, mi chiamo {}! Se hai domande su come usarmi, leggi / help e poi vai a @YanaBotGroup.
+    "send-start": """Ciao {}, mi chiamo {}! Se hai domande su come usarmi, leggi / help e poi vai a @YanaBotGroup.
 Sono un bot gestore di gruppo gestito da [questa persona] (tg: // user? Id = {654839744}). Sono un fork di [Marie] (https://github.com/PaulSonOfLars/tgbot).
 Sono costruito in python3, usando il \
 libreria python-telegram-bot e sono completamente opensource: puoi trovare cosa mi fa battere \
@@ -205,9 +205,9 @@ libreria python-telegram-bot e sono completamente opensource: puoi trovare cosa 
 Sentiti libero di inviare richieste pull su GitHub o di contattare il mio gruppo di supporto, @EchelonTeam, per qualsiasi bug, domanda \
 o richieste di funzionalità che potresti avere :)
 Se ti diverti ad usarmi e / o vorresti aiutarmi a sopravvivere in natura, premi / fai una donazione per contribuire a finanziare / aggiornare il mio VPS!
-"" ",
+""",
 
-    "send-help": "" "Ciao! Il mio nome è * {} *.
+    "send-help": """Ciao! Il mio nome è * {} *.
 Sono un bot di gestione di gruppi modulare con alcuni divertenti extra! Dai un'occhiata a quanto segue per avere un'idea di alcune delle cose in cui posso aiutarti.
 Principali comandi disponibili:
  - / start: ottimo comando per verificare se il bot è vivo o meno
@@ -219,7 +219,7 @@ Principali comandi disponibili:
    - in PM: ti invierà le impostazioni per tutti i moduli supportati.
    - in un gruppo: ti reindirizzerà a pm, con tutte le impostazioni della chat.
    {}
-   "" ",
+   """,
 
-    "send-group-settings": "" "Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati a.""",
+    "send-group-settings": """Salve! Ci sono alcune impostazioni per * {} * - vai avanti e scegli cosa siete interessati a.""",
 
