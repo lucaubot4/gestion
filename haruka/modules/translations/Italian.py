@@ -226,7 +226,6 @@ Principali comandi disponibili:
 #Misc
 "RUNS-K": RUN_STRINGS,
 "SLAP_TEMPLATES-K": SLAP_TEMPLATES,
-"ITEMS-K": ITEMS,
 "HIT-K": HIT,
 "THROW-K": THROW,
 "ITEMP-K": ITEMS,
