@@ -1,4 +1,4 @@
-from haruka.modules.sql.translation import prev_locale
+from haruka.modules.sql.translations import prev_locale
 from haruka.modules.translations.English import EnglishStrings
 from haruka.modules.translations.Russian import RussianStrings
 from haruka.modules.translations.Ukraine import UkrainianStrings
