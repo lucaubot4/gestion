@@ -197,15 +197,14 @@ Questo creerà due pulsanti su una singola riga, invece di un pulsante per riga.
 """
 
 ItalianStrings = {
-    "send-start": """Ciao {}, mi chiamo {}! Se hai domande su come usarmi, leggi / help e poi vai a @YanaBotGroup.
-    
-Sono un bot gestore di gruppo gestito da [questa persona] (tg: // user? Id = {654839744}). Sono un fork di [Marie] (https://github.com/PaulSonOfLars/tgbot).
-Sono costruito in python3, usando il \
-libreria python-telegram-bot e sono completamente opensource: puoi trovare cosa mi fa battere \
-[qui] (https://github.com/peaktogoo/HarukaAya))!
-Sentiti libero di inviare richieste pull su GitHub o di contattare il mio gruppo di supporto, @EchelonTeam, per qualsiasi bug, domanda \
-o richieste di funzionalità che potresti avere :)
-Se ti diverti ad usarmi e / o vorresti aiutarmi a sopravvivere in natura, premi / fai una donazione per contribuire a finanziare / aggiornare il mio VPS!
+    "send-start": """Ciao {}! 
+Group Help è il Bot più completo per aiutarti a gestire facilmente e in sicurezza i tuoi gruppi! 
+ 
+👉🏻 Aggiungimi in un supergruppo e impostami come Amministratore per farmi entrare subito in azione! 
+ 
+❓ QUALI SONO I COMANDI? ❓
+Premi /help per vedere tutti i comandi e il loro funzionamento!
+Clicca [qui](http://t.me/tg_GroupHelpManager_Bot?startgroup=true)
 """,
 
     "send-help": """Ciao! Il mio nome è * {} *.
