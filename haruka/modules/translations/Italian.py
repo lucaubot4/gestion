@@ -198,7 +198,7 @@ Questo creerà due pulsanti su una singola riga, invece di un pulsante per riga.
 
 ItalianStrings = {
     "send-start": """Ciao {}! 
-Group Help è il Bot più completo per aiutarti a gestire facilmente e in sicurezza i tuoi gruppi! 
+GroupHelpManager è il Bot più completo per aiutarti a gestire facilmente e in sicurezza i tuoi gruppi! 
  
 👉🏻 Aggiungimi in un supergruppo e impostami come Amministratore per farmi entrare subito in azione! 
  
